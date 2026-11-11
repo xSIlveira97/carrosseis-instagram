@@ -13,7 +13,7 @@ Legenda da situação: ✅ pronto · 🎙️ falta gravar · ✍️ falta autori
 | 29/12 | M2S3 | As perguntas que separam curioso de caso | 🎙️ fechamento de ~5 s |
 | 05/01 | M2S4 | O dia em que o WhatsApp cai | ✅ aprovado · tarefa programa em 07/12 |
 | 12/01 | M3S1 | Seu melhor funcionário é um processo não escrito | 🎙️ ~40 s (roteiro pronto em `roteiros_meses_1-3.md`) |
-| 19/01 | M3S2 | Responsável, critério e prazo | ✅ `mes03_delegar/reels/M03S2_responsavel_criterio_prazo.mp4` (18 s) |
+| 19/01 | M3S2 | Responsável, critério e prazo | 🎙️ gravar (Reel só com VSL não entra; os trechos do podcast que combinam já estão em 08/12 e 16/02) |
 | 26/01 | M3S3 | Se o erro aconteceu, o processo permitiu | ✅ `mes03_delegar/reels/M03S3_erro_e_processo.mp4` (21 s) |
 | 02/02 | M3S4 | “Precisamos melhorar” não é decisão | 🖼️ carrossel com fotos |
 | 09/02 | M4S1 | O documento que você pede três vezes | 🎙️ |
@@ -45,17 +45,17 @@ Legenda da situação: ✅ pronto · 🎙️ falta gravar · ✍️ falta autori
 | 10/08 | M10S3 | O que vai entrar nos próximos meses | 🎙️ |
 | 17/08 | M10S4 | Lead de 77 centavos para caso de 150 mil | ✍️ a frase do gancho é do Alexandre: precisa de autorização |
 | 24/08 | M11S1 | Uma conversa de 1 hora virou 20 vídeos | ⏳ dá para montar com os 20 cortes (próxima etapa) |
-| 31/08 | M11S2 | Sua pauta está no seu WhatsApp | ✅ `mes11_visibilidade/reels/M11S2_pauta_no_whatsapp.mp4` (14 s) |
+| 31/08 | M11S2 | Sua pauta está no seu WhatsApp | ✅ `mes11_visibilidade/reels/M11S2_pauta_no_whatsapp.mp4` (26 s, podcast + VSL) |
 | 07/09 | M11S3 | O que o Provimento 205/2021 permite | ✍️ revisão de advogado |
 | 14/09 | M11S4 | Conteúdo em 2 horas por semana | 🎙️ |
 | 21/09 | M12S1 | O que eu faria na segunda-feira: ler as conversas | 🎙️ |
 | 28/09 | M12S2 | Siga um cliente do primeiro contato à entrega | 🎙️ |
-| 05/10 | M12S3 | 15 minutos que mostram onde o escritório trava | ✅ `mes12_dominio_pratico/reels/M12S3_reuniao_de_15_minutos.mp4` (14 s) · a palavra “captação” foi cortada da fala |
+| 05/10 | M12S3 | 15 minutos que mostram onde o escritório trava | ✅ `mes12_dominio_pratico/reels/M12S3_reuniao_de_15_minutos.mp4` (22 s, podcast + VSL) · a palavra “captação” foi cortada da fala |
 | 12/10 | M12S4 | O que o escritório aprendeu este ano? | 🎙️ |
 
 ## Resumo
-- ✅ Prontos: 7 (2 do mês 2 já aprovados + 5 novos para aprovar).
-- 🎙️ Falta gravar: 22 falas curtas suas (muitas cabem numa única sessão de gravação).
+- ✅ Prontos: 6 (2 do mês 2 já aprovados + 4 novos para aprovar). Regra: nada de Reel só com VSL; podcast + um trecho do VSL pode.
+- 🎙️ Falta gravar: 23 falas curtas suas (muitas cabem numa única sessão de gravação).
 - ✍️ Autorização/revisão: Alexandre (15/12 e 17/08), advogado (30/03, 11/05, 07/09).
 - 🖼️ 8 terças estavam planejadas como carrossel com fotos.
 - Nada dos meses 3 a 12 foi programado: o Business Suite só aceita até ~29 dias à frente.

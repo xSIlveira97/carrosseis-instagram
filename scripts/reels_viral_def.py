@@ -43,24 +43,7 @@ REELS = {
         capa=("E SE O SEU WHATSAPP", "CAIR AMANHÃ?"),
         foto=("16", 22.0),
     ),
-    "M3S2": dict(
-        legenda_y=1640, card_top=990,  # VSL: tarja CAPTA fica entre 1130 e 1330 com o zoom
-        saida="M03S2_responsavel_criterio_prazo",
-        trechos=[("VSL", 226.2, 231.25), ("VSL", 335.6, 342.75)],
-        gancho=("TAREFA SEM DONO", "VOLTA PRA VOCÊ"),
-        frases_chave=[("VSL", 227.7, 231.25), ("VSL", 339.6, 342.75)],
-        cartoes=lambda m: [
-            (m("VSL", 338.6), m("VSL", 342.75), "{b}RESPONSÁVEL · CRITÉRIO · PRAZO{/b}"),
-        ],
-        musica="confiante_269520.mp3",
-        cauda=6.0,
-        fim="{b}MONTE O SEU QUADRO{/b}\\Netapa · responsável\\Npronto quando · prazo\\N \\N{b}Exemplo hipotético{/b}"
-            "\\NPrimeiro contato · Ana\\NPronto: caso registrado\\NPrazo: até 5 minutos",
-        fim_dur=6.0,
-        capa=("TODA ETAPA PRECISA DE", "3 COISAS"),
-        foto=("VSL", 228.5),
-        capa_y=1430,
-    ),
+    # M3S2 (19/01) retirado: era só VSL; os trechos de podcast que combinam já estão em 08/12 e 16/02 → gravar
     "M3S3": dict(
         saida="M03S3_erro_e_processo",
         # abre com o podcast e fecha com a frase do VSL (que tem cartão de título próprio)
@@ -93,32 +76,31 @@ REELS = {
         foto=("08", 26.0),
     ),
     "M11S2": dict(
-        legenda_y=1640, card_top=990,  # VSL: tarja CAPTA fica entre 1130 e 1330 com o zoom
         saida="M11S2_pauta_no_whatsapp",
-        trechos=[("VSL", 321.7, 329.15)],
+        # podcast (corte 19, você falando até 25 s) + frase do VSL
+        trechos=[("19", 5.65, 18.2), ("VSL", 321.7, 329.15)],
         gancho=("SUA PRÓXIMA PAUTA", "ESTÁ NO SEU\\NWHATSAPP"),
-        frases_chave=[("VSL", 323.2, 324.75)],
+        frases_chave=[("19", 11.0, 14.0), ("VSL", 323.2, 324.75)],
+        legenda_y=1640, card_top=990,  # VSL: tarja CAPTA
         musica="esperanca_112623.mp3",
         cauda=6.0,
         fim="{b}EXERCÍCIO DA SEMANA{/b}\\N1. abra as conversas da semana\\N2. anote as 10 perguntas\\Nque mais se repetem\\N3. cada pergunta vira um conteúdo",
         fim_dur=6.0,
         capa=("SUA PAUTA ESTÁ NO", "SEU WHATSAPP"),
-        foto=("VSL", 324.0),
-        capa_y=1430,
+        foto=("19", 12.0),
     ),
     "M12S3": dict(
-        legenda_y=1640, card_top=990,  # VSL: tarja CAPTA fica entre 1130 e 1330 com o zoom
         saida="M12S3_reuniao_de_15_minutos",
-        # corta "sua captação" da fala: "três números simples que mostram onde | está travando…"
-        trechos=[("VSL", 358.45, 361.0), ("VSL", 361.78, 366.45)],
+        # podcast (corte 05) + VSL sem "sua captação": "três números simples que mostram onde | está travando…"
+        trechos=[("05", 6.3, 14.9), ("VSL", 358.45, 361.0), ("VSL", 361.78, 366.45)],
         gancho=("3 NÚMEROS MOSTRAM", "ONDE SEU\\NESCRITÓRIO TRAVA"),
-        frases_chave=[("VSL", 358.5, 360.2)],
+        frases_chave=[("05", 9.2, 12.5), ("VSL", 358.5, 360.2)],
+        legenda_y=1640, card_top=990,
         musica="confiante_269520.mp3",
         cauda=6.0,
         fim="{b}PAUTA DE 15 MINUTOS{/b}\\N1. os 3 números da semana\\N2. o principal gargalo\\N3. uma decisão\\N4. um responsável e um prazo",
         fim_dur=6.0,
         capa=("REUNIÃO DE", "15 MINUTOS"),
-        foto=("VSL", 359.5),
-        capa_y=1430,
+        foto=("05", 10.0),
     ),
 }
