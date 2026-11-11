@@ -1,7 +1,8 @@
 # Reels de terça · ano todo (dez/2026 a out/2027)
 
 Atualizado em 11/11/2026. Os carrosséis do ano são os 52 de quarta (`s01`–`s52` + `schedule.json`); este arquivo cuida só das **terças**.
-Horário padrão: 12h, só Instagram @eusoukennethribeiro. Arquivos prontos: pasta `mesNN_…/reels/` (vídeo, capa 9:16, recorte 4:5 e `_legenda.txt`).
+Horário padrão: 12h, só Instagram @eusoukennethribeiro.
+Padrão de edição (desde 11/11/2026): viral do Painel Viral — gancho nos 3 primeiros segundos, troca de enquadramento a cada 2,5–4 s, zoom nas frases-chave, legenda palavra a palavra, trilha com abaixamento na fala, efeitos e barra de progresso (`scripts/reel_viral.py`). Arquivos prontos: pasta `mesNN_…/reels/` (vídeo, capa 9:16, recorte 4:5 e `_legenda.txt`).
 
 Legenda da situação: ✅ pronto · 🎙️ falta gravar · ✍️ falta autorização ou revisão · 🖼️ no plano é carrossel com fotos (não é Reel)
 
@@ -12,11 +13,11 @@ Legenda da situação: ✅ pronto · 🎙️ falta gravar · ✍️ falta autori
 | 29/12 | M2S3 | As perguntas que separam curioso de caso | 🎙️ fechamento de ~5 s |
 | 05/01 | M2S4 | O dia em que o WhatsApp cai | ✅ aprovado · tarefa programa em 07/12 |
 | 12/01 | M3S1 | Seu melhor funcionário é um processo não escrito | 🎙️ ~40 s (roteiro pronto em `roteiros_meses_1-3.md`) |
-| 19/01 | M3S2 | Responsável, critério e prazo | ✅ `mes03_delegar/reels/M03S2_responsavel_criterio_prazo.mp4` (20 s) |
-| 26/01 | M3S3 | Se o erro aconteceu, o processo permitiu | ✅ `mes03_delegar/reels/M03S3_erro_e_processo.mp4` (24 s) |
+| 19/01 | M3S2 | Responsável, critério e prazo | ✅ `mes03_delegar/reels/M03S2_responsavel_criterio_prazo.mp4` (18 s) |
+| 26/01 | M3S3 | Se o erro aconteceu, o processo permitiu | ✅ `mes03_delegar/reels/M03S3_erro_e_processo.mp4` (21 s) |
 | 02/02 | M3S4 | “Precisamos melhorar” não é decisão | 🖼️ carrossel com fotos |
 | 09/02 | M4S1 | O documento que você pede três vezes | 🎙️ |
-| 16/02 | M4S2 | O dado registrado uma vez | ✅ `mes04_documentos/reels/M04S2_estrutura_de_fases.mp4` (19 s) |
+| 16/02 | M4S2 | O dado registrado uma vez | ✅ `mes04_documentos/reels/M04S2_estrutura_de_fases.mp4` (18 s) |
 | 23/02 | M4S3 | Ninguém acha o arquivo porque ninguém combinou o nome | 🖼️ carrossel com fotos |
 | 02/03 | M4S4 | Contrato assinado não deveria depender de alguém conferir | 🎙️ gravação de tela (sem dados de clientes) |
 | 09/03 | M5S1 | A primeira conversa com o cliente define o caso | 🎙️ |
