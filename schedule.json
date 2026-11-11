@@ -18,7 +18,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s01/10.jpg"
   ],
   "status": "publicado",
-  "media_id": "18135262750778810"
+  "media_id": "18135262750778810",
+  "slot": "09h"
  },
  {
   "week": 2,
@@ -38,7 +39,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s02/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s02/10.jpg"
   ],
-  "status": "aprovado"
+  "status": "aprovado",
+  "slot": "12h"
  },
  {
   "week": 3,
@@ -58,7 +60,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s03/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s03/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "18h"
  },
  {
   "week": 4,
@@ -78,7 +81,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s04/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s04/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "09h"
  },
  {
   "week": 5,
@@ -98,7 +102,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s05/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s05/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "12h"
  },
  {
   "week": 6,
@@ -118,7 +123,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s06/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s06/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "18h"
  },
  {
   "week": 7,
@@ -138,7 +144,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s07/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s07/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "09h"
  },
  {
   "week": 8,
@@ -158,7 +165,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s08/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s08/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "12h"
  },
  {
   "week": 9,
@@ -178,7 +186,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s09/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s09/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "18h"
  },
  {
   "week": 10,
@@ -198,7 +207,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s10/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s10/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "09h"
  },
  {
   "week": 11,
@@ -218,7 +228,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s11/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s11/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "12h"
  },
  {
   "week": 12,
@@ -238,7 +249,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s12/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s12/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "18h"
  },
  {
   "week": 13,
@@ -258,7 +270,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s13/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s13/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "09h"
  },
  {
   "week": 14,
@@ -278,7 +291,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s14/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s14/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "12h"
  },
  {
   "week": 15,
@@ -298,7 +312,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s15/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s15/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "18h"
  },
  {
   "week": 16,
@@ -318,7 +333,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s16/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s16/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "09h"
  },
  {
   "week": 17,
@@ -338,7 +354,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s17/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s17/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "12h"
  },
  {
   "week": 18,
@@ -358,7 +375,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s18/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s18/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "18h"
  },
  {
   "week": 19,
@@ -378,7 +396,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s19/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s19/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "09h"
  },
  {
   "week": 20,
@@ -398,7 +417,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s20/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s20/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "12h"
  },
  {
   "week": 21,
@@ -418,7 +438,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s21/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s21/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "18h"
  },
  {
   "week": 22,
@@ -438,7 +459,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s22/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s22/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "09h"
  },
  {
   "week": 23,
@@ -458,7 +480,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s23/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s23/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "12h"
  },
  {
   "week": 24,
@@ -478,7 +501,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s24/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s24/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "18h"
  },
  {
   "week": 25,
@@ -498,7 +522,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s25/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s25/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "09h"
  },
  {
   "week": 26,
@@ -518,7 +543,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s26/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s26/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "12h"
  },
  {
   "week": 27,
@@ -538,7 +564,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s27/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s27/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "18h"
  },
  {
   "week": 28,
@@ -558,7 +585,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s28/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s28/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "09h"
  },
  {
   "week": 29,
@@ -578,7 +606,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s29/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s29/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "12h"
  },
  {
   "week": 30,
@@ -598,7 +627,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s30/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s30/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "18h"
  },
  {
   "week": 31,
@@ -618,7 +648,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s31/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s31/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "09h"
  },
  {
   "week": 32,
@@ -638,7 +669,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s32/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s32/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "12h"
  },
  {
   "week": 33,
@@ -658,7 +690,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s33/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s33/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "18h"
  },
  {
   "week": 34,
@@ -678,7 +711,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s34/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s34/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "09h"
  },
  {
   "week": 35,
@@ -698,7 +732,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s35/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s35/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "12h"
  },
  {
   "week": 36,
@@ -718,7 +753,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s36/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s36/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "18h"
  },
  {
   "week": 37,
@@ -738,7 +774,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s37/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s37/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "09h"
  },
  {
   "week": 38,
@@ -758,7 +795,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s38/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s38/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "12h"
  },
  {
   "week": 39,
@@ -778,7 +816,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s39/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s39/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "18h"
  },
  {
   "week": 40,
@@ -798,7 +837,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s40/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s40/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "09h"
  },
  {
   "week": 41,
@@ -818,7 +858,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s41/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s41/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "12h"
  },
  {
   "week": 42,
@@ -838,7 +879,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s42/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s42/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "18h"
  },
  {
   "week": 43,
@@ -858,7 +900,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s43/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s43/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "09h"
  },
  {
   "week": 44,
@@ -878,7 +921,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s44/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s44/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "12h"
  },
  {
   "week": 45,
@@ -898,7 +942,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s45/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s45/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "18h"
  },
  {
   "week": 46,
@@ -918,7 +963,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s46/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s46/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "09h"
  },
  {
   "week": 47,
@@ -938,7 +984,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s47/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s47/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "12h"
  },
  {
   "week": 48,
@@ -958,7 +1005,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s48/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s48/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "18h"
  },
  {
   "week": 49,
@@ -978,7 +1026,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s49/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s49/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "09h"
  },
  {
   "week": 50,
@@ -998,7 +1047,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s50/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s50/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "12h"
  },
  {
   "week": 51,
@@ -1018,7 +1068,8 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s51/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s51/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "18h"
  },
  {
   "week": 52,
@@ -1038,6 +1089,7 @@
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s52/09.jpg",
    "https://raw.githubusercontent.com/xSIlveira97/carrosseis-instagram/main/s52/10.jpg"
   ],
-  "status": "agendado"
+  "status": "agendado",
+  "slot": "09h"
  }
 ]
