@@ -1,0 +1,8 @@
+Tarefa sem dono volta para o dono do escritório.
+
+Para cada etapa, defina três coisas:
+• Responsável: uma pessoa, com nome.
+• Critério: como saber que a etapa terminou.
+• Prazo: até quando.
+
+No fim do vídeo tem um exemplo hipotético do quadro. Monte o seu com as três etapas que mais voltam para você.

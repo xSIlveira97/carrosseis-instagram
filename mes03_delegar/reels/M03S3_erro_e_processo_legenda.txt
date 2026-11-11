@@ -1,0 +1,8 @@
+Quando um erro aparece, a primeira reação costuma ser procurar quem errou. Isso resolve o caso, mas o erro volta com outra pessoa.
+
+Depois de cada erro, faça três perguntas:
+1. Em que etapa aconteceu?
+2. O que no processo permitiu?
+3. Que regra, checklist ou automação impede que se repita?
+
+Use na próxima reunião com a equipe.

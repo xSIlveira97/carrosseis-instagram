@@ -1,0 +1,146 @@
+"""Carrosséis do mês 1 (um por semana, publicados na quinta, complementando o Reel de terça).
+
+Cada lâmina: dict com chaves opcionais
+  kicker  : rótulo pequeno no topo
+  titulo  : título grande (Barlow Condensed)
+  texto   : lista de parágrafos
+  itens   : lista numerada [(rótulo, explicação)]
+  tabela  : lista de linhas (a primeira é o cabeçalho)
+  caixa   : texto em destaque na caixa amarela
+  depois  : parágrafos depois da caixa
+  nota    : linha pequena no rodapé do conteúdo (ex.: “Exemplo hipotético”)
+Capa e lâmina final usam um quadro dos seus próprios vídeos (foto=(arquivo, segundo)).
+"""
+import os
+
+DL = os.path.expanduser("~/Downloads/job_1793366817055_{}.mp4")
+VSL = os.path.expanduser("~/Desktop/Edicao_Videos_Kenneth_CAPTA/02_VSL/VSL_v7_sem_legenda_sem_trilha.mp4")
+
+CARROSSEIS = {
+"M01C1_planilha_de_origem": dict(
+    semana=1, dia="quinta",
+    foto=(VSL, 14.5),
+    capa=("DE ONDE VEIO CADA CLIENTE DO SEU ESCRITÓRIO?", "Monte esta planilha em 10 minutos e descubra quanto você depende de indicação."),
+    laminas=[
+        dict(kicker="Por que medir", titulo="SEM SABER A ORIGEM, VOCÊ NÃO SABE ONDE INVESTIR",
+             texto=["Indicação é ótima. O problema é planejar o mês inteiro em cima dela.",
+                    "Quando você registra de onde veio cada cliente, descobre o que funciona e o que só ocupa tempo."]),
+        dict(kicker="Passo 1", titulo="CRIE UMA PLANILHA COM 6 COLUNAS",
+             itens=[("Data", "do primeiro contato"), ("Nome", "do cliente"), ("Origem", "como ele chegou até você"),
+                    ("Quem atendeu", "nome da pessoa"), ("Virou contrato?", "sim ou não"), ("Valor", "do contrato fechado")]),
+        dict(kicker="Passo 2", titulo="USE SEMPRE AS MESMAS ORIGENS",
+             texto=["Indicação de cliente · Indicação de colega ou parceiro · Ex-cliente · Instagram · Google · Anúncio · Outro"],
+             caixa="Se cada pessoa escreve de um jeito, a conta não fecha no fim do mês."),
+        dict(kicker="Passo 3", titulo="PERGUNTE NO PRIMEIRO CONTATO",
+             texto=["Quem atende faz a pergunta e registra no mesmo dia:"],
+             caixa="“Como você chegou até o nosso escritório?”"),
+        dict(kicker="Exemplo", titulo="UM MÊS ANOTADO",
+             tabela=[["Origem", "Contatos", "Contratos"], ["Indicação", "6", "3"], ["Instagram", "2", "1"],
+                     ["Google", "1", "0"], ["Ex-cliente", "1", "0"], ["Total", "10", "4"]],
+             nota="Exemplo hipotético, só para mostrar a conta."),
+        dict(kicker="Passo 4", titulo="FAÇA 2 CONTAS NO FIM DO MÊS",
+             itens=[("Dependência de indicação", "contratos por indicação ÷ total de contratos. No exemplo: 3 ÷ 4 = 75%"),
+                    ("Fechamento por origem", "contratos ÷ contatos de cada origem. No exemplo, Instagram: 1 ÷ 2 = 50%")]),
+        dict(kicker="Como ler", titulo="NÃO EXISTE NÚMERO CERTO. EXISTE TENDÊNCIA",
+             texto=["Compare mês a mês. Se a dependência de indicação não cai, a entrada continua imprevisível.",
+                    "A origem com bom fechamento e poucos contatos é a primeira candidata a receber mais atenção."]),
+    ],
+    fim="Salve e preencha no fechamento do mês.",
+    legenda="De onde veio cada cliente que entrou no seu escritório este mês?\n\nArraste para montar a planilha em 4 passos e fazer as 2 contas que mostram quanto a sua entrada depende de indicação.\n\nO exemplo do carrossel é hipotético. Use os números do seu escritório.\n\nSalve para fazer no fechamento do mês.",
+),
+"M01C2_antes_de_anunciar": dict(
+    semana=2, dia="quinta",
+    foto=(DL.format("02"), 49.6),
+    capa=("ANTES DE GASTAR COM ANÚNCIO, RESPONDA ISTO", "4 perguntas que definem com quem o seu escritório fala."),
+    laminas=[
+        dict(kicker="O problema", titulo="MENSAGEM PARA TODO MUNDO NÃO FALA COM NINGUÉM",
+             texto=["Se o anúncio serve para qualquer pessoa, ninguém se reconhece nele.",
+                    "Antes da arte e da verba, o escritório precisa de quatro respostas."]),
+        dict(kicker="Pergunta 1", titulo="QUEM É O CLIENTE?",
+             texto=["Profissão, situação e momento de vida."],
+             caixa="Exemplo hipotético: trabalhador da construção civil que acabou de sair da empresa."),
+        dict(kicker="Pergunta 2", titulo="QUAL PROBLEMA ELE SENTE, NAS PALAVRAS DELE?",
+             texto=["Escreva como o cliente fala no WhatsApp, não como está na petição."],
+             caixa="“Não recebi minhas horas extras.”"),
+        dict(kicker="Pergunta 3", titulo="QUANDO ELE PROCURA AJUDA?",
+             texto=["Identifique o momento em que a dúvida aparece: depois da demissão, ao receber a rescisão, ao conversar com um colega.",
+                    "É nesse momento que o seu conteúdo precisa estar na frente dele."]),
+        dict(kicker="Pergunta 4", titulo="O QUE ELE PRECISA SABER ANTES DE CHAMAR?",
+             texto=["Liste as dúvidas que aparecem antes do primeiro contato. Elas viram conteúdo informativo.",
+                    "As respostas jurídicas ficam com o advogado responsável."]),
+        dict(kicker="Junte tudo", titulo="UMA FRASE DE POSICIONAMENTO",
+             caixa="EU AJUDO ______ COM ______ QUANDO ______",
+             depois=["Exemplo hipotético: “Eu ajudo trabalhadores da construção civil com horas extras não pagas quando saem da empresa.”"]),
+        dict(kicker="Exercício", titulo="LISTE 10 PERGUNTAS REAIS",
+             itens=[("Onde buscar", "WhatsApp do escritório, ligações e primeiras consultas"),
+                    ("Como anotar", "com as palavras do cliente"),
+                    ("O que fazer", "cada pergunta vira um conteúdo")],
+             nota="Publicidade da advocacia segue o Provimento 205/2021 da OAB: conteúdo informativo, sem promessa de resultado."),
+    ],
+    fim="Salve e responda antes do próximo anúncio.",
+    legenda="Antes de gastar com anúncio, o escritório precisa saber com quem está falando.\n\nArraste para ver as 4 perguntas e a frase de posicionamento “Eu ajudo ___ com ___ quando ___”.\n\nOs exemplos do carrossel são hipotéticos. Adapte para a sua área.\n\nSalve e responda antes do próximo anúncio.",
+),
+"M01C3_cliente_oculto": dict(
+    semana=3, dia="quinta",
+    foto=(DL.format("03"), 47.8),
+    capa=("SEU ESCRITÓRIO PASSARIA NO TESTE DO CLIENTE OCULTO?", "Checklist de 7 pontos para avaliar a primeira resposta no WhatsApp."),
+    laminas=[
+        dict(kicker="Como fazer", titulo="PEÇA A ALGUÉM DE FORA PARA SER O CLIENTE",
+             itens=[("Mensagem", "“Oi, preciso de ajuda com um problema no trabalho.”"),
+                    ("Dois horários", "um no horário comercial e outro à noite"),
+                    ("Sem avisar", "a equipe não pode saber do teste")]),
+        dict(kicker="Checklist 1 a 3", titulo="A PRIMEIRA RESPOSTA",
+             itens=[("1. Tempo", "quantos minutos até a primeira resposta?"),
+                    ("2. Nome", "quem atende se apresentou?"),
+                    ("3. Pergunta", "fez uma pergunta para entender o caso?")]),
+        dict(kicker="Checklist 4 a 7", titulo="A CONDUÇÃO",
+             itens=[("4. Próximo passo", "explicou o que acontece agora?"),
+                    ("5. Documentos", "pediu de forma organizada, numa lista só?"),
+                    ("6. Retorno", "combinou dia e hora?"),
+                    ("7. Registro", "o contato foi anotado em algum lugar?")]),
+        dict(kicker="Modelo", titulo="UMA PRIMEIRA RESPOSTA QUE CONDUZ",
+             caixa="“Olá! Aqui é a Ana, do escritório. Recebi sua mensagem. Para eu entender o seu caso: você ainda trabalha na empresa ou já saiu?”",
+             nota="Exemplo hipotético. Ajuste a pergunta para a sua área."),
+        dict(kicker="Fora do horário", titulo="MENSAGEM AUTOMÁTICA HONESTA",
+             texto=["Diga quando a equipe responde e peça um resumo do caso. Assim o retorno já começa adiantado."],
+             caixa="“Recebemos sua mensagem. Respondemos a partir das 8h. Se puder, conte em poucas linhas o que aconteceu.”"),
+        dict(kicker="Depois do teste", titulo="DEFINA UMA META E UM RESPONSÁVEL",
+             texto=["Escolha o tempo máximo de primeira resposta no horário comercial.",
+                    "Dê um nome para quem cuida disso e repita o teste todo mês."]),
+    ],
+    fim="Salve e faça o teste esta semana.",
+    legenda="O cliente não sabe avaliar quem é o melhor advogado. Ele avalia quem respondeu primeiro e como respondeu.\n\nArraste para ver como fazer o teste do cliente oculto e o checklist de 7 pontos da primeira resposta.\n\nOs modelos de mensagem são exemplos. Ajuste para o seu escritório.\n\nSalve e faça o teste esta semana.",
+),
+"M01C4_tres_numeros": dict(
+    semana=4, dia="quinta",
+    foto=(DL.format("01"), 16.4),
+    capa=("3 NÚMEROS QUE MOSTRAM ONDE SEU ESCRITÓRIO PERDE CLIENTE", "Com fórmula e exemplo calculado."),
+    laminas=[
+        dict(kicker="O engano", titulo="LEAD BARATO NÃO DIZ SE O INVESTIMENTO VALEU",
+             texto=["Custo por contato sozinho não mostra quantos viraram contrato.",
+                    "Olhe os três números juntos, sempre no mesmo período."]),
+        dict(kicker="Número 1", titulo="CUSTO POR CONTATO",
+             caixa="Valor investido ÷ número de contatos",
+             depois=["Exemplo: R$ 600 ÷ 40 contatos = R$ 15 por contato."], nota="Exemplo hipotético."),
+        dict(kicker="Número 2", titulo="TAXA DE QUALIFICAÇÃO",
+             caixa="Contatos com caso que o escritório atende ÷ total de contatos",
+             depois=["Exemplo: 12 ÷ 40 = 30%."], nota="Exemplo hipotético."),
+        dict(kicker="Número 3", titulo="TAXA DE FECHAMENTO",
+             caixa="Contratos ÷ contatos qualificados",
+             depois=["Exemplo: 3 ÷ 12 = 25%."], nota="Exemplo hipotético."),
+        dict(kicker="Juntando", titulo="CUSTO POR CONTRATO",
+             caixa="Valor investido ÷ contratos fechados",
+             depois=["Exemplo: R$ 600 ÷ 3 = R$ 200 por contrato.", "Compare com o honorário médio desse tipo de caso."],
+             nota="Exemplo hipotético."),
+        dict(kicker="Onde agir", titulo="CADA NÚMERO APONTA UM AJUSTE",
+             itens=[("Qualificação baixa", "revise público e mensagem do anúncio"),
+                    ("Fechamento baixo", "revise o atendimento: tempo de resposta, roteiro e responsável"),
+                    ("Custo alto com bom fechamento", "teste outro público ou formato antes de cortar verba")]),
+        dict(kicker="Rotina", titulo="UM RESPONSÁVEL, TODA SEMANA",
+             texto=["Uma pessoa registra cada contato, com origem e resultado.",
+                    "Toda segunda-feira ela apresenta os três números e o que mudou."]),
+    ],
+    fim="Salve para a próxima reunião de resultados.",
+    legenda="Lead barato parece boa notícia até você olhar quantos viraram contrato.\n\nArraste para ver os 3 números do atendimento, com fórmula, e o que fazer quando cada um está baixo.\n\nOs valores do carrossel são exemplos hipotéticos. Use os números do seu escritório.\n\nSalve para a próxima reunião de resultados.",
+),
+}
