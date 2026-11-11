@@ -1,0 +1,7 @@
+Quantos contatos a sua equipe consegue atender bem por dia?
+
+Arraste para fazer a conta em 3 passos e definir o que fazer quando a fila chegar perto do limite.
+
+O exemplo do carrossel é hipotético. Use os números do seu escritório.
+
+Salve para a próxima reunião com a equipe.

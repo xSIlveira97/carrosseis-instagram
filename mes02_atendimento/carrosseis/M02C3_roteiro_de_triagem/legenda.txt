@@ -1,0 +1,5 @@
+Quando cada atendente pergunta uma coisa, o advogado recebe casos incompletos e precisa perguntar tudo de novo.
+
+Um roteiro de triagem resolve: as mesmas perguntas, na mesma ordem, registradas no mesmo lugar. No carrossel está um exemplo de estrutura para a área trabalhista. Adapte as perguntas com o advogado responsável.
+
+Salve e envie para quem atende.
