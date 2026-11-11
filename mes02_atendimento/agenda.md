@@ -7,9 +7,9 @@ Horário padrão do pacote: 12h (Brasília), só Instagram @eusoukennethribeiro.
 | # | Data | Formato | Tema | Arquivo | Situação |
 |---|---|---|---|---|---|
 | 01 | ter 15/12 | Reel | Quantos contatos sua equipe aguenta por dia? | — | **Falta gravar** (sua resposta, ~35 s) + autorização do Alexandre |
-| 02 | qui 17/12 | Carrossel (9) | Quantos contatos sua equipe aguenta? | `carrosseis/M02C1_capacidade_da_equipe/` | ✅ Aprovado · tarefa programa em 18/11 |
+| 02 | qui 17/12 | Carrossel (8) | Quantos contatos sua equipe aguenta? | `carrosseis/M02C1_capacidade_da_equipe/` | ✅ Aprovado · tarefa programa em 18/11 |
 | 03 | ter 22/12 | Reel (55 s, padrão viral) | WhatsApp Business ou oficial: quando trocar | `reels/M02S2_whatsapp_oficial.mp4` | ✅ Aprovado · tarefa programa em 23/11 |
-| 04 | qui 24/12 | Carrossel (10) | Saindo do celular: o que preparar | `carrosseis/M02C2_saindo_do_celular/` | ✅ Aprovado · tarefa programa em 25/11 |
+| 04 | qui 24/12 | Carrossel (9) | Saindo do celular: o que preparar | `carrosseis/M02C2_saindo_do_celular/` | ✅ Aprovado · tarefa programa em 25/11 |
 | 05 | ter 29/12 | Reel (~20 s) | As perguntas que separam curioso de caso | — | **Falta gravar** o fechamento (~5 s) |
 | 06 | qui 31/12 | Carrossel (9) | Roteiro de triagem em 6 perguntas | `carrosseis/M02C3_roteiro_de_triagem/` | **Advogado revisa as perguntas 2 a 5** antes de publicar |
 | 07 | ter 05/01 | Reel (39 s, padrão viral) | O dia em que o WhatsApp cai | `reels/M02S4_whatsapp_caiu.mp4` | ✅ Aprovado · tarefa programa em 07/12 |
@@ -17,6 +17,7 @@ Horário padrão do pacote: 12h (Brasília), só Instagram @eusoukennethribeiro.
 
 Reels: envie o .mp4 e use o `_capa.jpg` como capa; o `_capa_feed4x5.jpg` é o recorte do grid.
 Carrosséis: envie as lâminas na ordem 01, 02, 03… (1080×1350). A legenda está em `legenda.txt` dentro de cada pasta.
+Regra: o conteúdo entrega pronto (tabela, modelo, lista, diagnóstico). Reescritos em 11/11 sem linguagem de tarefa.
 
 ## Legendas dos Reels
 

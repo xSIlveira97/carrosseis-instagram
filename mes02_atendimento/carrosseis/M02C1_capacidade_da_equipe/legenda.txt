@@ -1,7 +1,7 @@
 Quantos contatos a sua equipe consegue atender bem por dia?
 
-Arraste para fazer a conta em 3 passos e definir o que fazer quando a fila chegar perto do limite.
+Arraste para ver a tabela pronta por tamanho de equipe, os sinais de que passou do limite e o que resolve quando a fila cresce.
 
-O exemplo do carrossel é hipotético. Use os números do seu escritório.
+A tabela usa como referência 4 contatos por hora e 6 horas de atendimento. O ritmo real varia com a área.
 
-Salve para a próxima reunião com a equipe.
+Salve para consultar quando for anunciar.
