@@ -1,5 +1,7 @@
 """Definições dos Reels no padrão viral (reel_viral.py).
 
+Regra do Kenneth: o conteúdo ENTREGA PRONTO. Nada que soe como tarefa ("monte", "faça", "anote", "reveja", "exercício").
+
   gancho        (texto branco, texto amarelo) — na tela nos 3 primeiros segundos (ou None)
   frases_chave  [(origem, início, fim)] — trechos com zoom de impacto (1.28) e whoosh
   cartoes       lambda m: [(início, fim, texto)] — como em reels_def.py
@@ -24,7 +26,7 @@ REELS = {
              "várias pessoas no mesmo número\\Nconversa que se perde\\Nninguém sabe quem respondeu"),
         ],
         musica="pulso_586317.mp3",
-        fim="Salve para decidir com a equipe",
+        fim="Oficial: a equipe toda no mesmo número",
         capa=("O CELULAR DO SEU ESCRITÓRIO VIROU", "GARGALO?"),
         foto=("11", 13.0),
     ),
@@ -34,12 +36,12 @@ REELS = {
         gancho=("MEU WHATSAPP FICOU", "2 MESES TRAVADO"),
         frases_chave=[("17", 12.2, 14.9), ("16", 9.8, 14.3), ("16", 20.4, 24.2)],
         cartoes=lambda m: [
-            (m("16", 14.3), m("16", 24.15), "{b}PLANO B EM 4 PASSOS{/b}\\N"
+            (m("16", 14.3), m("16", 24.15), "{b}O PLANO B PRONTO{/b}\\N"
              "1. número reserva já ativo\\N2. outros canais divulgados\\N3. aviso pronto para o cliente\\N4. um responsável por acionar"),
         ],
         musica="tensao_313611.mp3",
         evitar_video=[("17", 0.0, 2.6)],  # tomada do Alexandre até 2,5 s
-        fim="Monte o seu plano B esta semana",
+        fim="Com plano B, o escritório não para",
         capa=("E SE O SEU WHATSAPP", "CAIR AMANHÃ?"),
         foto=("16", 22.0),
     ),
@@ -51,7 +53,7 @@ REELS = {
         gancho=("TODO ERRO DA EQUIPE", "TEM A MESMA ORIGEM"),
         frases_chave=[("07", 15.0, 22.65)],
         cartoes=lambda m: [
-            (m("07", 15.0), m("07", 22.65), "{b}DEPOIS DE CADA ERRO{/b}\\N1. Em que etapa aconteceu?\\N2. O que permitiu?\\N3. O que impede a repetição?"),
+            (m("07", 15.0), m("07", 22.65), "{b}O QUE FAZ O ERRO NÃO VOLTAR{/b}\\Nchecklist na etapa onde ele aconteceu\\Nconferência automática no sistema\\Nregra escrita, não só conversa"),
         ],
         sem_legenda=[("VSL", 268.6, 272.85)],  # o cartão do VSL já escreve a frase na tela
         musica="engrenagem_149933.mp3",
@@ -84,7 +86,9 @@ REELS = {
         legenda_y=1640, card_top=990,  # VSL: tarja CAPTA
         musica="esperanca_112623.mp3",
         cauda=6.0,
-        fim="{b}EXERCÍCIO DA SEMANA{/b}\\N1. abra as conversas da semana\\N2. anote as 10 perguntas\\Nque mais se repetem\\N3. cada pergunta vira um conteúdo",
+        # entrega o resultado: as pautas prontas (perguntas que o cliente trabalhista repete), não uma tarefa
+        fim="{b}4 PAUTAS PRONTAS{/b}\\N“Fui demitido, tenho direito a quê?”\\N“Quanto tempo demora o processo?”"
+            "\\N“Posso processar se ainda trabalho lá?”\\N“E se eu não tiver testemunha?”",
         fim_dur=6.0,
         capa=("SUA PAUTA ESTÁ NO", "SEU WHATSAPP"),
         foto=("19", 12.0),
@@ -94,11 +98,16 @@ REELS = {
         # podcast (corte 05) + VSL sem "sua captação": "três números simples que mostram onde | está travando…"
         trechos=[("05", 6.3, 14.9), ("VSL", 358.45, 361.0), ("VSL", 361.78, 366.45)],
         gancho=("3 NÚMEROS MOSTRAM", "ONDE SEU\\NESCRITÓRIO TRAVA"),
+        # entrega o resultado: diz quais são os 3 números (os mesmos do Reel de 08/12)
+        cartoes=lambda m: [
+            (m("VSL", 358.6), m("VSL", 366.45), "{b}OS 3 NÚMEROS{/b}\\N1. custo por contato\\N2. % de contatos qualificados\\N3. % que viraram contrato"),
+        ],
         frases_chave=[("05", 9.2, 12.5), ("VSL", 358.5, 360.2)],
         legenda_y=1640, card_top=990,
         musica="confiante_269520.mp3",
         cauda=6.0,
-        fim="{b}PAUTA DE 15 MINUTOS{/b}\\N1. os 3 números da semana\\N2. o principal gargalo\\N3. uma decisão\\N4. um responsável e um prazo",
+        fim="{b}COMO LER{/b}\\Ncusto alto: público ou anúncio\\Npoucos qualificados: mensagem"
+            "\\Nfecha pouco: atendimento",
         fim_dur=6.0,
         capa=("REUNIÃO DE", "15 MINUTOS"),
         foto=("05", 10.0),

@@ -1,9 +1,9 @@
-Reunião de indicadores não precisa de uma hora.
+Os 3 números que mostram onde o escritório trava:
+1. Custo por contato.
+2. % de contatos qualificados.
+3. % que viraram contrato.
 
-Pauta de 15 minutos, toda semana:
-1. Os 3 números da semana.
-2. O principal gargalo.
-3. Uma decisão.
-4. Um responsável e um prazo.
-
-Salve e use na próxima segunda-feira.
+Como ler:
+• Custo alto: o problema está no público ou no anúncio.
+• Poucos qualificados: a mensagem está chamando as pessoas erradas.
+• Fecha pouco: o gargalo é o atendimento.

@@ -24,27 +24,25 @@ Carrosséis: envie as lâminas na ordem 01, 02, 03… (1080×1350). A legenda es
 ```
 Enquanto uma pessoa atende pelo celular, o WhatsApp Business resolve. Quando o volume cresce, o celular vira gargalo.
 
-Sinais de que é hora de olhar para o WhatsApp oficial (API):
+Os 3 sinais de que chegou a hora do WhatsApp oficial (API):
 1. Mais de uma pessoa precisa atender o mesmo número.
 2. Conversas se perdem ou ficam sem resposta.
 3. Ninguém sabe dizer quem respondeu o cliente e quando.
 
-O oficial é contratado com a Meta, direto ou por um provedor parceiro, fica num sistema e não depende de um aparelho.
-
-Salve para decidir com a equipe.
+No oficial, a equipe inteira atende o mesmo número, dentro de um sistema, sem depender de um aparelho.
 ```
 
 ### 07 · ter 05/01 · O dia em que o WhatsApp cai
 ```
 Conta bloqueada não avisa antes. Se todo o atendimento passa por um único número, um bloqueio para o escritório.
 
-Plano B em 4 passos:
+O plano B que evita isso:
 1. Um número reserva já ativo e aquecido.
 2. Outros canais divulgados ao cliente: telefone, e-mail, Instagram.
-3. Uma mensagem de aviso pronta para usar.
-4. Uma pessoa responsável por acionar o plano.
+3. Uma mensagem de aviso pronta.
+4. Uma pessoa responsável por acionar.
 
-Monte o seu esta semana.
+Com isso, um bloqueio vira um contratempo, não uma parada.
 ```
 
 ## O que falta para fechar o mês

@@ -1,0 +1,8 @@
+Enquanto uma pessoa atende pelo celular, o WhatsApp Business resolve. Quando o volume cresce, o celular vira gargalo.
+
+Os 3 sinais de que chegou a hora do WhatsApp oficial (API):
+1. Mais de uma pessoa precisa atender o mesmo número.
+2. Conversas se perdem ou ficam sem resposta.
+3. Ninguém sabe dizer quem respondeu o cliente e quando.
+
+No oficial, a equipe inteira atende o mesmo número, dentro de um sistema, sem depender de um aparelho.

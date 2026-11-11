@@ -1,8 +1,10 @@
 Quando cada pessoa pergunta de novo o que o cliente já respondeu, o cliente cansa e a equipe perde tempo.
 
-Registre uma vez, num lugar só, e organize o atendimento em fases:
-• quem cuida
-• para onde vai
-• em que etapa está
+A ficha do cliente com os campos mínimos:
+• nome, contato e cidade
+• tipo de caso e resumo
+• origem do contato
+• fase atual e responsável
+• documentos recebidos
 
-No fim do vídeo estão os campos mínimos da ficha do cliente. Salve para revisar a sua.
+Registrado uma vez, ninguém pergunta de novo.
